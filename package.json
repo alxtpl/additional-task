@@ -5,8 +5,8 @@
   "main": "minimaxsum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node timeconversion.js",
-    "dev": "nodemon timeconversion.js"
+    "start": "node breakingtherecords.js",
+    "dev": "nodemon breakingtherecords.js"
   },
   "repository": {
     "type": "git",
