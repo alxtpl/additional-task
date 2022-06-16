@@ -5,8 +5,8 @@
   "main": "minimaxsum.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node breakingtherecords.js",
-    "dev": "nodemon breakingtherecords.js"
+    "start": "node camelcasefor.js",
+    "dev": "nodemon camelcasefor.js"
   },
   "repository": {
     "type": "git",
